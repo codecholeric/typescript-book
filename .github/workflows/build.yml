@@ -21,8 +21,7 @@ jobs:
       - run: sudo apt update
       - run: sudo apt install libegl1 libopengl0 libxcb-cursor-dev
       - run: sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
-      - run: sudo npm install -g gitbook-cli
-      - run: sudo npm install -g mathjax@2.7.7
+      - run: sudo npm install -g gitbook-cli@2.6.9
       - run: gitbook install
       - run: mkdir output
       - run: gitbook pdf . ./output/typescript-book-${SHA}.pdf
