@@ -7,6 +7,7 @@ Learn Professional TypeScript. I've been looking at the issues that turn up comm
 
 ## Reviews
 
+
 * Thanks for the wonderful book. Learned a lot from it. ([link](https://www.gitbook.com/book/basarat/typescript/discussions/21#comment-1468279131934))
 * Its probably the Best TypeScript book out there. Good Job ([link](https://twitter.com/thelondonjs/status/756419561570852864))
 * Love how precise and clear the examples and explanations are! ([link](https://twitter.com/joe_mighty/status/758290957280346112))
